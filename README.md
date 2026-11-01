@@ -6,51 +6,37 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:2B2035,45:554263,75:9B829F,100:C6A98B&height=185&section=header&text=Said%20Dominguez&fontSize=43&fontColor=FFF9F4&fontAlignY=40&desc=INFORMATION%20TECHNOLOGY%20STUDENT%20%E2%80%A2%20MULTIPLATFORM%20DEVELOPMENT&descSize=12&descColor=F1E5DC&descAlignY=65&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:211A2B,38:493653,72:806B8D,100:B99B86&height=155&section=header&text=Said%20Dominguez&fontSize=42&fontColor=FFF9F4&fontAlignY=39&desc=INFORMATION%20TECHNOLOGY%20STUDENT%20%E2%80%A2%20MULTIPLATFORM%20DEVELOPMENT&descSize=12&descColor=F4EAF0&descAlignY=66&animation=fadeIn" />
 
-<br/><br/>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=1000&color=CDB8D9&center=true&vCenter=true&width=650&lines=Building+ideas+into+software.;Exploring+web%2C+mobile+and+desktop+development.;Learning+something+new+with+every+project." alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3200&pause=1000&color=CDB8D9&center=true&vCenter=true&width=650&height=32&lines=Building+ideas+into+software.;Exploring+web%2C+mobile+and+desktop+development.;Learning+something+new+with+every+project." alt="Typing introduction" />
 
 </div>
 
 ---
 
+<div align="center">
+
+### ABOUT ME
+
+*Information Technology student at **Universidad Tecnológica de Cancún**, focused on **Multiplatform Software Development**.*
+
+I’m building my skills in programming, databases, and application development through coursework and hands-on projects. I’m especially interested in creating useful experiences across web, mobile, and desktop platforms.
+
 <table>
 <tr>
-<td width="58%" valign="top">
-
-## About me
-
-I'm currently studying **Information Technology at Universidad Tecnológica de Cancún**, where I'm developing my knowledge of software engineering, programming, databases, and application development.
-
-My academic focus is **Multiplatform Software Development**. I enjoy applying what I learn in practical projects, experimenting with different tools, and improving my problem-solving skills as I grow as a developer.
-
-- 🎓 **Education:** Information Technology student at Universidad Tecnológica de Cancún.
-- 💻 **Specialization:** Multiplatform Software Development.
-- 📱 **Interests:** Web, mobile, and desktop application development.
-- 🗄️ **Technical interests:** Programming, relational databases, and REST API integration.
-- 🌱 **Current goal:** Strengthen my development skills through coursework, personal projects, and continuous learning.
-
-</td>
-<td width="42%" valign="top">
-
-## At a glance
-
-| | |
-|:--|:--|
-| **Focus** | Software Development |
-| **Platforms** | Web · Mobile · Desktop |
-| **Currently building** | Nami-App |
-| **Location** | Cancún, México |
-
-</td>
+<td align="center" width="33%"><strong>🎓 EDUCATION</strong><br/>Information Technology</td>
+<td align="center" width="33%"><strong>💻 FOCUS</strong><br/>Multiplatform Development</td>
+<td align="center" width="34%"><strong>🌱 CURRENT PROJECT</strong><br/>Nami-App</td>
 </tr>
 </table>
 
+</div>
+
 ## 🛠️ Tech stack
 
-<sub>A selection of technologies and tools I use while learning and building projects.</sub>
+<sub>Tools and technologies I use to learn, experiment, and bring projects to life.</sub>
 
 <table>
 <tr>
@@ -80,7 +66,7 @@ My academic focus is **Multiplatform Software Development**. I enjoy applying wh
 
 <div align="center">
 
-<sub>Also working with **REST API integration**, JSON, and connecting applications to backend services.</sub>
+<sub>Also exploring API integration, JSON, and communication between applications and backend services.</sub>
 
 </div>
 
