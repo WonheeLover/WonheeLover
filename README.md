@@ -32,14 +32,15 @@
 
 ## About me
 
-I'm an **Information Technology student** at Universidad Tecnológica de Cancún, focused on Multiplatform Software Development.
+I'm currently studying **Information Technology at Universidad Tecnológica de Cancún**, where I'm developing my knowledge of software engineering, programming, databases, and application development.
 
-I enjoy creating applications, exploring new technologies, and solving problems through code.
+My academic focus is **Multiplatform Software Development**. I enjoy applying what I learn in practical projects, experimenting with different tools, and improving my problem-solving skills as I grow as a developer.
 
-- 🎓 Information Technology student
-- 💻 Multiplatform software development
-- 🔌 REST API integration and databases
-- 🌱 Constantly learning through practice
+- 🎓 **Education:** Information Technology student at Universidad Tecnológica de Cancún.
+- 💻 **Specialization:** Multiplatform Software Development.
+- 📱 **Interests:** Web, mobile, and desktop application development.
+- 🗄️ **Technical interests:** Programming, relational databases, and REST API integration.
+- 🌱 **Current goal:** Strengthen my development skills through coursework, personal projects, and continuous learning.
 
 </td>
 <td width="42%" valign="top">
