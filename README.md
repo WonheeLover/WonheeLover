@@ -1,62 +1,103 @@
-<!-- Profile README for @WonheeLover -->
+<!--
+  SAID DOMINGUEZ | GitHub Profile
+  GitHub sanitizes custom CSS in README files, so this layout uses
+  supported HTML, Markdown and SVG-based assets for a polished design.
+-->
 
 <div align="center">
 
-# Hey, I'm Said Dominguez 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:172554,100:0F766E&height=170&section=header&text=Said%20Dominguez&fontSize=42&fontColor=F8FAFC&fontAlignY=42&desc=SOFTWARE%20DEVELOPMENT%20STUDENT%20%7C%20MULTIPLATFORM%20DEVELOPMENT&descSize=13&descAlignY=68&animation=fadeIn" />
 
-### Software Development Student | Multiplatform Development
+<br/>
 
-I build software projects and enjoy learning how technology can solve real-world problems.
+<a href="mailto:saidominguez2006@outlook.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20me-1D4ED8?style=flat-square&logo=microsoftoutlook&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/WonheeLover">
+  <img src="https://img.shields.io/badge/GitHub-WonheeLover-334155?style=flat-square&logo=github&logoColor=white" />
+</a>
 
-[![Email](https://img.shields.io/badge/EMAIL-Contact%20me-2563EB?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:saidominguez2006@outlook.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-WonheeLover-242938?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WonheeLover)
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=1000&color=94A3B8&center=true&vCenter=true&width=650&lines=Building+ideas+into+software.;Exploring+web%2C+mobile+and+desktop+development.;Learning+something+new+with+every+project." alt="Typing introduction" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<table>
+<tr>
+<td width="58%" valign="top">
 
-- 🎓 Information Technology student at **Universidad Tecnológica de Cancún**.
-- 💻 Focused on **Multiplatform Software Development**.
-- 📱 Interested in mobile, web, and desktop application development.
-- 🔗 Practicing API integration, database management, and application development.
-- 🌱 Always learning and improving through hands-on projects.
+## About me
 
-## 🧩 Technologies & Tools
+I'm an **Information Technology student** at Universidad Tecnológica de Cancún, focused on Multiplatform Software Development.
+
+I enjoy creating applications, exploring new technologies, and solving problems through code.
+
+- 🎓 Information Technology student
+- 💻 Multiplatform software development
+- 🔌 REST API integration and databases
+- 🌱 Constantly learning through practice
+
+</td>
+<td width="42%" valign="top">
+
+## At a glance
+
+| | |
+|:--|:--|
+| **Focus** | Software Development |
+| **Platforms** | Web · Mobile · Desktop |
+| **Currently building** | Nami-App |
+| **Location** | Cancún, México |
+
+</td>
+</tr>
+</table>
+
+## Tech stack
+
+<sub>Technologies and tools I work with and use in my projects.</sub>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**01 / Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,cs&theme=dark" alt="JavaScript, TypeScript, C Sharp" />
+
+</td>
+<td width="33%" valign="top">
+
+**02 / Frontend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap&theme=dark" alt="React, HTML, CSS, Bootstrap" />
+
+</td>
+<td width="34%" valign="top">
+
+**03 / Backend & Tools**
+
+<img src="https://skillicons.dev/icons?i=dotnet,mysql,postgres,git,github&theme=dark" alt=".NET, MySQL, PostgreSQL, Git, GitHub" />
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-**PROGRAMMING LANGUAGES**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-
-<br/>
-
-**WEB & MOBILE DEVELOPMENT**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-<br/>
-
-**BACKEND, DATABASES & TOOLS**
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-242938?style=for-the-badge&logo=github&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-008F8C?style=for-the-badge&logo=fastapi&logoColor=white)
+<img src="https://img.shields.io/badge/REST%20APIs-Integration-0F766E?style=flat-square&logo=fastapi&logoColor=white" />
 
 </div>
 
-## 🚀 Featured Project
+## Featured project
+
+<table>
+<tr>
+<td width="100%" valign="top">
 
 <div align="center">
 
@@ -64,27 +105,34 @@ I build software projects and enjoy learning how technology can solve real-world
 
 **Mobile application · React Native · Expo**
 
-A mobile application project currently under development. Explore the repository to follow its progress and implementation.
+A mobile application project currently under development.
 
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WonheeLover/Nami-App)
+<a href="https://github.com/WonheeLover/Nami-App">
+  <img src="https://img.shields.io/badge/Explore%20repository-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Explore Nami-App repository" />
+</a>
 
 </div>
 
-## 📬 Contact
+</td>
+</tr>
+</table>
+
+## Let's connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-saidominguez2006%40outlook.com-2563EB?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:saidominguez2006@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-WonheeLover-242938?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WonheeLover)
+<a href="mailto:saidominguez2006@outlook.com">
+  <img src="https://img.shields.io/badge/Email-saidominguez2006%40outlook.com-1D4ED8?style=flat-square&logo=microsoftoutlook&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/WonheeLover">
+  <img src="https://img.shields.io/badge/GitHub-%40WonheeLover-334155?style=flat-square&logo=github&logoColor=white" />
+</a>
 
-📍 Cancún, Quintana Roo, México
+<br/><br/>
+
+<sub><i>Always learning. Always building. Always improving.</i></sub>
 
 </div>
 
----
-
-<div align="center">
-
-*Always learning, building, and improving.* ✨
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,50:172554,100:111827&height=5&section=footer" />
