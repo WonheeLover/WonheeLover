@@ -6,11 +6,9 @@
 
 ### Software Development Student | Multiplatform Development
 
-Building practical solutions for **web, mobile, and desktop**.
+I build software projects and enjoy learning how technology can solve real-world problems.
 
-<br/>
-
-[![Email](https://img.shields.io/badge/LET'S_CONNECT-saidominguez2006%40outlook.com-2563EB?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:saidominguez2006@outlook.com)
+[![Email](https://img.shields.io/badge/EMAIL-Contact%20me-2563EB?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:saidominguez2006@outlook.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-WonheeLover-242938?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WonheeLover)
 
 </div>
@@ -21,9 +19,9 @@ Building practical solutions for **web, mobile, and desktop**.
 
 - 🎓 Information Technology student at **Universidad Tecnológica de Cancún**.
 - 💻 Focused on **Multiplatform Software Development**.
-- 🌐 Interested in building web, mobile, and desktop applications.
-- 🔗 Hands-on experience with REST API integration and relational databases.
-- 🌱 Continuously learning and improving through practical projects.
+- 📱 Interested in mobile, web, and desktop application development.
+- 🔗 Practicing API integration, database management, and application development.
+- 🌱 Always learning and improving through hands-on projects.
 
 ## 🧩 Technologies & Tools
 
@@ -58,58 +56,17 @@ Building practical solutions for **web, mobile, and desktop**.
 
 </div>
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏅 SportK
-**Desktop application**
-
-A student and sports activity management system built with **C#**, **.NET Windows Forms**, and **MySQL**.
-
-</td>
-<td width="50%" valign="top">
-
-### 🌊 Nami
-**Mobile application**
-
-A beach condition reporting app developed with **React Native**, **JavaScript**, and **PostgreSQL**.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌴 UT Turismo
-**Responsive website**
-
-A tourism landing page created with **HTML**, **CSS**, and **Bootstrap**.
-
-</td>
-<td width="50%" valign="top">
-
-### 🗺️ API Explorer
-**API integration**
-
-A JavaScript application combining Pokédex and maps APIs with **REST** and **JSON**.
-
-</td>
-</tr>
-</table>
-
-## 🎯 Development Focus
+## 🚀 Featured Project
 
 <div align="center">
 
-![Web Development](https://img.shields.io/badge/WEB_DEVELOPMENT-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Mobile Apps](https://img.shields.io/badge/MOBILE_APPS-0F766E?style=for-the-badge&logo=android&logoColor=white)
-![Desktop Software](https://img.shields.io/badge/DESKTOP_SOFTWARE-6D28D9?style=for-the-badge&logo=windows&logoColor=white)
+### 🌊 Nami-App
 
-<br/>
+**Mobile application · React Native · Expo**
 
-*Learning by building, improving with every project.*
+A mobile application project currently under development. Explore the repository to follow its progress and implementation.
+
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WonheeLover/Nami-App)
 
 </div>
 
@@ -128,6 +85,6 @@ A JavaScript application combining Pokédex and maps APIs with **REST** and **JS
 
 <div align="center">
 
-**Thanks for visiting my profile!** ✨
+*Always learning, building, and improving.* ✨
 
 </div>
