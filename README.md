@@ -8,16 +8,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:172554,100:0F766E&height=170&section=header&text=Said%20Dominguez&fontSize=42&fontColor=F8FAFC&fontAlignY=42&desc=SOFTWARE%20DEVELOPMENT%20STUDENT%20%7C%20MULTIPLATFORM%20DEVELOPMENT&descSize=13&descAlignY=68&animation=fadeIn" />
 
-<br/>
-
-<a href="mailto:saidominguez2006@outlook.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20me-1D4ED8?style=flat-square&logo=microsoftoutlook&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/WonheeLover">
-  <img src="https://img.shields.io/badge/GitHub-WonheeLover-334155?style=flat-square&logo=github&logoColor=white" />
-</a>
-
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=1000&color=94A3B8&center=true&vCenter=true&width=650&lines=Building+ideas+into+software.;Exploring+web%2C+mobile+and+desktop+development.;Learning+something+new+with+every+project." alt="Typing introduction" />
@@ -58,9 +48,9 @@ My academic focus is **Multiplatform Software Development**. I enjoy applying wh
 </tr>
 </table>
 
-## Tech stack
+## 🛠️ Tech stack
 
-<sub>Technologies and tools I work with and use in my projects.</sub>
+<sub>A selection of technologies and tools I use while learning and building projects.</sub>
 
 <table>
 <tr>
@@ -90,11 +80,13 @@ My academic focus is **Multiplatform Software Development**. I enjoy applying wh
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/REST%20APIs-Integration-0F766E?style=flat-square&logo=fastapi&logoColor=white" />
+<sub>Also working with **REST API integration**, JSON, and connecting applications to backend services.</sub>
 
 </div>
 
-## Featured project
+---
+
+## 🚀 Featured project
 
 <table>
 <tr>
@@ -118,7 +110,9 @@ A mobile application project currently under development.
 </tr>
 </table>
 
-## Let's connect
+---
+
+## 🤝 Let's connect
 
 <div align="center">
 
@@ -132,7 +126,7 @@ A mobile application project currently under development.
 
 <br/><br/>
 
-<sub><i>Always learning. Always building. Always improving.</i></sub>
+<sub><i>Curious mind · Consistent learning · Building step by step</i></sub>
 
 </div>
 
