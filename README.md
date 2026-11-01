@@ -6,11 +6,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:172554,100:0F766E&height=170&section=header&text=Said%20Dominguez&fontSize=42&fontColor=F8FAFC&fontAlignY=42&desc=SOFTWARE%20DEVELOPMENT%20STUDENT%20%7C%20MULTIPLATFORM%20DEVELOPMENT&descSize=13&descAlignY=68&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:2B2035,45:554263,75:9B829F,100:C6A98B&height=185&section=header&text=Said%20Dominguez&fontSize=43&fontColor=FFF9F4&fontAlignY=40&desc=INFORMATION%20TECHNOLOGY%20STUDENT%20%E2%80%A2%20MULTIPLATFORM%20DEVELOPMENT&descSize=12&descColor=F1E5DC&descAlignY=65&animation=fadeIn" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=1000&color=94A3B8&center=true&vCenter=true&width=650&lines=Building+ideas+into+software.;Exploring+web%2C+mobile+and+desktop+development.;Learning+something+new+with+every+project." alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=1000&color=CDB8D9&center=true&vCenter=true&width=650&lines=Building+ideas+into+software.;Exploring+web%2C+mobile+and+desktop+development.;Learning+something+new+with+every+project." alt="Typing introduction" />
 
 </div>
 
@@ -101,7 +101,7 @@ My academic focus is **Multiplatform Software Development**. I enjoy applying wh
 A mobile application project currently under development.
 
 <a href="https://github.com/WonheeLover/Nami-App">
-  <img src="https://img.shields.io/badge/Explore%20repository-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Explore Nami-App repository" />
+  <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-554263?style=for-the-badge&logo=github&logoColor=FFF9F4" alt="Explore Nami-App repository" />
 </a>
 
 </div>
@@ -117,11 +117,11 @@ A mobile application project currently under development.
 <div align="center">
 
 <a href="mailto:saidominguez2006@outlook.com">
-  <img src="https://img.shields.io/badge/Email-saidominguez2006%40outlook.com-1D4ED8?style=flat-square&logo=microsoftoutlook&logoColor=white" />
+  <img src="https://img.shields.io/badge/EMAIL-saidominguez2006%40outlook.com-8D719A?style=flat-square&logo=microsoftoutlook&logoColor=FFF9F4" />
 </a>
 &nbsp;
 <a href="https://github.com/WonheeLover">
-  <img src="https://img.shields.io/badge/GitHub-%40WonheeLover-334155?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-%40WonheeLover-554263?style=flat-square&logo=github&logoColor=FFF9F4" />
 </a>
 
 <br/><br/>
@@ -130,4 +130,4 @@ A mobile application project currently under development.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,50:172554,100:111827&height=5&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2B2035,50:8D719A,100:C6A98B&height=7&section=footer" />
